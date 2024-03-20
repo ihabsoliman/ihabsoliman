@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working in [@form3tech-oss](https://github.com/form3tech-oss/) and my work profile is [@ihab-soliman-form3](https://github.com/ihab-soliman-form3)
+🔭 I’m currently working in [@form3tech-oss](https://github.com/form3tech/) and my work profile is [@ihab-soliman-form3](https://github.com/ihab-soliman-form3)
 
 <!--
 **IhabSoliman/ihabsoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
