@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ihabmsoliman/)
+📫 How to reach me:
 
-🔭 My last position work profile is [@ihab-soliman-form3](https://github.com/ihab-soliman-form3)
+- [💼 LinkedIn](https://www.linkedin.com/in/ihabmsoliman/)
+
+🔭 Work github profiles
+
+- [@ihab-soliman-form3](https://github.com/ihab-soliman-form3)
 
 <!--
 **IhabSoliman/ihabsoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
